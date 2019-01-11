@@ -7,4 +7,4 @@ The goal of the project was to leverage data mining techniques to identify which
  * Different datasets were selected from http://data.un.org/Explorer.aspx , the repo contains transformed csv files.
  * Following is sample of how does data looks.
  
-<img src = "images/data.jpeg" > 
+     <img src = "images/Data.png" > 
