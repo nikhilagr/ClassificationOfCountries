@@ -11,4 +11,4 @@ The goal of the project was to leverage data mining techniques to identify which
 
  * **Data after feature extraction using tsfresh library**
  
-     <img src = "images/FeatureExtractedData.png"
+     <img src = "images/FeatureExtractedData.png">
